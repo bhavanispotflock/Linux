@@ -1,0 +1,1 @@
+element(by.xpath('//div[text()="Choose Your Model "]')).Click();
